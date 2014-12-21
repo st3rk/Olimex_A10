@@ -1,0 +1,4 @@
+StrictHostKeyChecking no
+Host *
+	ForwardX11Trusted yes
+	ForwardAgent yes
