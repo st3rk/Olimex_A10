@@ -4,3 +4,4 @@ base:
     - vim
     - ssh
     - pyA10Lime
+    - pkg_base
